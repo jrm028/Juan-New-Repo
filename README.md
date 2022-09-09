@@ -1,2 +1,2 @@
-# Juan-New-Repo
+# first-day-repo
 My first Repository
